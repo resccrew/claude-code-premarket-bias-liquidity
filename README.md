@@ -28,7 +28,7 @@ Everything else is optional and chosen per session — see Data sources below. T
 Clone straight into your skills directory:
 
 ```bash
-git clone https://github.com/resccrew/premarket-bias-liquidity.git \
+git clone https://github.com/resccrew/claude-code-premarket-bias-liquidity.git \
   ~/.claude/skills/premarket-bias-liquidity
 ```
 
