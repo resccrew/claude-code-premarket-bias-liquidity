@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local notes and captures — keep private trading data out of the repo
+scratch/
+notes.local.md
+screenshots/*.png
+!screenshots/example-*.png
