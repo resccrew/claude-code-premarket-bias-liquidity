@@ -1,6 +1,6 @@
-# Pre-Market Bias & Liquidity
+# Pre-Market Bias & Liquidity — a Claude Code Skill
 
-A Claude skill that runs a disciplined pre-session markup on index futures — reading live TradingView charts, screenshots, or levels you dictate, and walking a fixed four-step model instead of improvising an opinion.
+A Claude Code skill that runs a disciplined pre-session markup on index futures — reading live TradingView charts, screenshots, or levels you dictate, and walking a fixed four-step model instead of improvising an opinion.
 
 The point is not to generate more trade ideas. It is to make the assistant refuse to produce one until the conditions are actually met.
 
